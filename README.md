@@ -1,7 +1,7 @@
 # kwbuild-demo
 Like I said, Kwbuild-demo.
----
-## TASKS
+### TASKS
 
-** Task 0: create the Explore button **
-** status: NTDN **
+**Task 0: create the Explore button**
+
+**status: NTDN**
